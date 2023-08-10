@@ -113,6 +113,10 @@ img {
     color: #000;
 }
 
+.experiences-column h3 {
+    margin-top: 15px;
+}
+
 .experiences-column .last-date {
     text-align: right;
 }
